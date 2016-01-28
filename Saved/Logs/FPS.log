@@ -161,4 +161,182 @@
 [2016.01.27-23.36.19:291][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2016.01.27-23.36.19:740][869]Cmd: EDIT PASTE
 [2016.01.27-23.36.25:460][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2016.01.27-23.36.29:768][ 78]LogPlayLevel: PlayLevel: N
+[2016.01.27-23.36.29:768][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.27-23.36.29:769][ 78]PIE: New page: PIE session: Untitled_1 (Jan 27, 2016, 1:36:29 PM)
+[2016.01.27-23.36.29:769][ 78]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.01.27-23.36.29:785][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016123s)
+[2016.01.27-23.36.29:786][ 78]LogAIModule: Creating AISystem for world Untitled_1
+[2016.01.27-23.36.29:787][ 78]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2016.01.27-23.36.29:788][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018928s)
+[2016.01.27-23.36.29:788][ 78]LogActorComponent: UnregisterComponent: (/Engine/Transient.MovementComponent0) Not registered. Aborting.
+[2016.01.27-23.36.29:834][ 78]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.01.27-23.36.29:845][ 78]LogInit: FAudioDevice initialized.
+[2016.01.27-23.36.29:900][ 78]LogWorld: Game class is 'GameMode'
+[2016.01.27-23.36.29:905][ 78]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.01.27-18.36.29
+[2016.01.27-23.36.29:905][ 78]LogActor:Warning: GameSession /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.36.29:905][ 78]LogActor:Warning: GameNetworkManager /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.36.29:905][ 78]LogWorld: Bringing up level for play took: 0.002857
+[2016.01.27-23.36.29:907][ 78]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.195
+[2016.01.27-23.36.39:153][333]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000022182B471A0
+[2016.01.27-23.37.40:636][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.01.27-23.37.51:067][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.38.20:410][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.27-23.38.20:482][ 84]LogSavePackage: Save=42.480953ms
+[2016.01.27-23.38.20:482][ 84]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersFBC49B97457B858D9AAE148EA5093C8B.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.01.27-23.38.20:485][ 84]LogSavePackage: Total save time: 46.354927ms
+[2016.01.27-23.38.20:485][ 84]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.01.27-23.38.20:545][ 84]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.812
+[2016.01.27-23.40.52:754][147]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.01.27-23.41.28:490][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.41.32:783][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.27-23.41.32:784][974]PIE: New page: PIE session: Floor1_Sewers (Jan 27, 2016, 1:41:32 PM)
+[2016.01.27-23.41.32:784][974]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.01.27-23.41.32:789][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005508s)
+[2016.01.27-23.41.32:792][974]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.01.27-23.41.32:793][974]LogPlayLevel: PIE: World Init took: (0.003902s)
+[2016.01.27-23.41.32:794][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.010065s)
+[2016.01.27-23.41.32:839][974]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.01.27-23.41.32:854][974]LogInit: FAudioDevice initialized.
+[2016.01.27-23.41.32:893][974]LogWorld: Game class is 'GameMode'
+[2016.01.27-23.41.32:897][974]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.01.27-18.41.32
+[2016.01.27-23.41.32:898][974]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.41.32:898][974]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.41.32:898][974]LogWorld: Bringing up level for play took: 0.005146
+[2016.01.27-23.41.32:900][974]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers 0.798
+[2016.01.27-23.41.39:475][154]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000022186EDDC60
+[2016.01.27-23.42.21:230][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.27-23.42.21:287][988]LogSavePackage: Save=32.754147ms
+[2016.01.27-23.42.21:287][988]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers640A039043E88B6BD9F1679F12E9F97A.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.01.27-23.42.21:290][988]LogSavePackage: Total save time: 38.995326ms
+[2016.01.27-23.42.21:290][988]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.01.27-23.42.21:322][988]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.145
+[2016.01.27-23.42.37:013][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.01.27-23.42.44:043][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.01.27-23.42.46:333][550]Cmd: EDIT COPY
+[2016.01.27-23.42.46:875][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.42.47:541][576]Cmd: EDIT PASTE
+[2016.01.27-23.43.11:035][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.43.11:930][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.43.18:585][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.43.32:247][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.43.43:375][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.43.44:454][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.44.06:446][249]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.44.25:540][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.27-23.44.25:591][665]LogSavePackage: Save=28.686594ms
+[2016.01.27-23.44.25:591][665]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers945DEB324EEC662E179D0E927A248E50.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.01.27-23.44.25:594][665]LogSavePackage: Total save time: 34.004122ms
+[2016.01.27-23.44.25:594][665]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.01.27-23.44.25:636][665]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.146
+[2016.01.27-23.50.53:440][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.51.26:440][847]Cmd: EDIT COPY
+[2016.01.27-23.51.29:774][916]Cmd: EDIT PASTE
+[2016.01.27-23.51.54:287][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.51.56:928][469]Cmd: EDIT COPY
+[2016.01.27-23.51.57:174][474]Cmd: EDIT PASTE
+[2016.01.27-23.52.05:694][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.52.06:955][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.27-23.52.14:314][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.27-23.52.14:384][824]LogSavePackage: Save=39.125698ms
+[2016.01.27-23.52.14:384][824]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersD0E07D084BFDDC3B98279D86DA31A101.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.01.27-23.52.14:387][824]LogSavePackage: Total save time: 46.159767ms
+[2016.01.27-23.52.14:387][824]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.01.27-23.54.18:774][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.27-23.54.18:774][875]PIE: New page: PIE session: Floor1_Sewers (Jan 27, 2016, 1:54:18 PM)
+[2016.01.27-23.54.18:774][875]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.01.27-23.54.18:782][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008269s)
+[2016.01.27-23.54.18:785][875]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.01.27-23.54.18:786][875]LogPlayLevel: PIE: World Init took: (0.003652s)
+[2016.01.27-23.54.18:787][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.012745s)
+[2016.01.27-23.54.18:844][875]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.01.27-23.54.18:853][875]LogInit: FAudioDevice initialized.
+[2016.01.27-23.54.18:888][875]LogWorld: Game class is 'GameMode'
+[2016.01.27-23.54.18:891][875]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.01.27-18.54.18
+[2016.01.27-23.54.18:891][875]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.54.18:891][875]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.27-23.54.18:891][875]LogWorld: Bringing up level for play took: 0.002945
+[2016.01.27-23.54.18:893][875]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers 0.791
+[2016.01.27-23.54.37:218][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000221D7E780E0
+[2016.01.27-23.54.56:775][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.54.56:939][800]Cmd: EDIT COPY
+[2016.01.27-23.54.58:221][827]Cmd: EDIT PASTE
+[2016.01.27-23.55.09:697][ 53]Cmd: TRANSACTION UNDO
+[2016.01.27-23.55.09:697][ 53]LogEditorTransaction: Undo Move Actors
+[2016.01.27-23.55.09:777][ 53]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.01.27-23.55.12:501][107]Cmd: TRANSACTION UNDO
+[2016.01.27-23.55.12:501][107]LogEditorTransaction: Undo Paste
+[2016.01.27-23.55.12:580][107]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2016.01.27-23.55.15:691][169]Cmd: EDIT COPY
+[2016.01.27-23.55.15:882][173]Cmd: EDIT PASTE
+[2016.01.27-23.56.14:736][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2016.01.27-23.56.15:766][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.28-00.03.16:930][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.28-00.03.38:964][407]Cmd: EDIT COPY
+[2016.01.28-00.03.40:895][447]Cmd: EDIT PASTE
+[2016.01.28-00.04.36:670][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.28-00.05.19:994][574]Cmd: EDIT COPY
+[2016.01.28-00.05.22:807][632]Cmd: EDIT PASTE
+[2016.01.28-00.06.12:861][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.28-00.06.15:647][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.28-00.06.15:647][715]PIE: New page: PIE session: Floor1_Sewers (Jan 27, 2016, 2:06:15 PM)
+[2016.01.28-00.06.15:648][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.01.28-00.06.15:659][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011228s)
+[2016.01.28-00.06.15:663][715]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.01.28-00.06.15:664][715]LogPlayLevel: PIE: World Init took: (0.005585s)
+[2016.01.28-00.06.15:665][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.017656s)
+[2016.01.28-00.06.15:718][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.01.28-00.06.15:728][715]LogInit: FAudioDevice initialized.
+[2016.01.28-00.06.15:763][715]LogWorld: Game class is 'GameMode'
+[2016.01.28-00.06.15:767][715]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.01.27-19.06.15
+[2016.01.28-00.06.15:767][715]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.28-00.06.15:767][715]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.28-00.06.15:767][715]LogWorld: Bringing up level for play took: 0.003065
+[2016.01.28-00.06.15:777][715]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers -0.326
+[2016.01.28-00.06.51:772][712]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000221E54885E0
+[2016.01.28-00.07.19:640][388]MapCheck: New page: Map Check
+[2016.01.28-00.07.19:666][388]Cmd: MAP REBUILD ALLVISIBLE
+[2016.01.28-00.07.19:667][388]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.01.28-00.07.19:687][388]LightingResults: New page: Lighting Build - Jan 27, 2016, 2:07:19 PM
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.01.28-00.07.23:284][388]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.01.28-00.07.23:653][388]LogEditorBuildUtils: Build time 0:00:04
+[2016.01.28-00.07.26:159][453]Job is a success!
+[2016.01.28-00.07.26:452][454]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.01.28-00.07.26:492][454]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.01.28-00.07.26:493][454]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.01.28-00.07.26:494][454]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.01.28-00.07.26:512][454]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.01.28-00.07.26:538][454]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.01.28-00.07.26:565][454]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.01.28-00.07.26:594][454]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.01.28-00.07.26:600][454]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.01.28-00.07.26:650][454]Lightmass on LAPTOP-LIOL8N73: 1.82 sec total, 290 ms importing, 1 ms setup, 177 ms photons, 1.33 sec processing, 0 ms extra exporting [29/29 mappings]. Threads: 5.29 sec total, 2.09 sec processing.
+[2016.01.28-00.07.26:696][454]LogStaticLightingSystem: Illumination: 6.90 sec (171 ms encoding lightmaps)
+[2016.01.28-00.07.26:696][454]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.1 MB streaming, 0.3 MB non-streaming), 6 textures
+[2016.01.28-00.07.26:696][454]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 3 textures
+[2016.01.28-00.07.27:318][455]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.01.28-00.07.27:319][455]MapCheck: New page: Floor1_Sewers - Jan 27, 2016, 2:07:27 PM
+[2016.01.28-00.07.27:422][455]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 103.742ms to complete.
+[2016.01.28-00.07.29:539][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.28-00.07.29:539][502]PIE: New page: PIE session: Floor1_Sewers (Jan 27, 2016, 2:07:29 PM)
+[2016.01.28-00.07.29:539][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.01.28-00.07.29:550][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010202s)
+[2016.01.28-00.07.29:552][502]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.01.28-00.07.29:552][502]LogPlayLevel: PIE: World Init took: (0.002695s)
+[2016.01.28-00.07.29:553][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.013341s)
+[2016.01.28-00.07.29:587][502]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.01.28-00.07.29:594][502]LogInit: FAudioDevice initialized.
+[2016.01.28-00.07.29:630][502]LogWorld: Game class is 'GameMode'
+[2016.01.28-00.07.29:632][502]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.01.27-19.07.29
+[2016.01.28-00.07.29:632][502]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.28-00.07.29:633][502]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.28-00.07.29:633][502]LogWorld: Bringing up level for play took: 0.002678
+[2016.01.28-00.07.29:634][502]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers -0.468
+[2016.01.28-00.07.38:259][751]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000221EAB0E480
+[2016.01.28-00.07.39:547][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.28-00.07.55:015][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.28-00.0
