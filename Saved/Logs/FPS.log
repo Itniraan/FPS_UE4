@@ -602,4 +602,413 @@
 [2016.02.03-15.27.56:036][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2016.02.03-15.28.18:320][936]Cmd: EDIT COPY
 [2016.02.03-15.28.18:611][965]Cmd: EDIT PASTE
-[2016.02.03-15.28.51:
+[2016.02.03-15.28.51:850][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor46)
+[2016.02.03-15.29.04:145][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.29.21:765][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-15.29.22:100][736]LogSavePackage: Save=288.005768ms
+[2016.02.03-15.29.22:100][736]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers1B72C5C447721FB504E71EB8A63EE418.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-15.29.22:103][736]LogSavePackage: Total save time: 294.309366ms
+[2016.02.03-15.29.22:103][736]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-15.29.22:149][736]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.455
+[2016.02.03-15.29.57:116][688]Cmd: EDIT COPY
+[2016.02.03-15.29.57:733][746]Cmd: EDIT PASTE
+[2016.02.03-15.30.07:485][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.30.15:753][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.30.26:795][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor61)
+[2016.02.03-15.30.27:835][452]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.30.28:525][510]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.30.35:204][850]Cmd: EDIT COPY
+[2016.02.03-15.30.35:466][876]Cmd: EDIT PASTE
+[2016.02.03-15.30.56:312][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.31.10:928][966]Cmd: EDIT COPY
+[2016.02.03-15.31.12:972][139]Cmd: EDIT PASTE
+[2016.02.03-15.31.28:962][510]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.31.30:848][638]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor67)
+[2016.02.03-15.31.54:324][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.32.15:597][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor62)
+[2016.02.03-15.32.24:682][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor65)
+[2016.02.03-15.32.28:082][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.32.42:589][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor67)
+[2016.02.03-15.32.43:713][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.32.44:558][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor65)
+[2016.02.03-15.32.46:185][ 37]Cmd: EDIT COPY
+[2016.02.03-15.32.46:486][ 65]Cmd: EDIT PASTE
+[2016.02.03-15.32.59:491][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.33.18:387][435]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.33.39:871][424]Cmd: EDIT COPY
+[2016.02.03-15.33.40:126][450]Cmd: EDIT PASTE
+[2016.02.03-15.34.19:081][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.34.36:052][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-15.34.36:532][344]LogSavePackage: Save=409.871735ms
+[2016.02.03-15.34.36:532][344]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersFFDCC3454BC4CE33928BCE906B8DDF01.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-15.34.36:538][344]LogSavePackage: Total save time: 423.591837ms
+[2016.02.03-15.34.36:538][344]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-15.34.36:587][344]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.603
+[2016.02.03-15.37.59:872][604]Cmd: EDIT COPY
+[2016.02.03-15.38.00:240][640]Cmd: EDIT PASTE
+[2016.02.03-15.38.36:436][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.39.25:980][ 38]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.25:980][ 38]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.39.25:999][ 38]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2016.02.03-15.39.26:054][ 38]LogGeometryMode:Warning: Unable to find 1 Vertex(s) in new BSP
+[2016.02.03-15.39.26:054][ 38]LogGeometryMode:Warning: Unable to resolve BoxBrush45 Brush in new BSP, see above
+[2016.02.03-15.39.26:054][ 38]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2016.02.03-15.39.26:433][ 56]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.26:433][ 56]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.39.26:464][ 56]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2016.02.03-15.39.27:426][117]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.27:426][117]LogEditorTransaction: Undo Modifier [Weld]
+[2016.02.03-15.39.27:455][117]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2016.02.03-15.39.27:974][143]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.27:974][143]LogEditorTransaction: Undo Modifier [Edit]
+[2016.02.03-15.39.28:478][174]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.28:478][174]LogEditorTransaction: Undo Select Brush Surface
+[2016.02.03-15.39.29:165][218]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.29:165][218]LogEditorTransaction: Undo Clicking on Actors
+[2016.02.03-15.39.29:720][253]Cmd: TRANSACTION UNDO
+[2016.02.03-15.39.29:720][253]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.39.29:748][253]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2016.02.03-15.39.44:982][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor66)
+[2016.02.03-15.39.58:878][707]Cmd: EDIT COPY
+[2016.02.03-15.39.59:294][752]Cmd: EDIT PASTE
+[2016.02.03-15.40.04:568][180]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.40.12:682][897]Cmd: EDIT COPY
+[2016.02.03-15.40.13:012][932]Cmd: EDIT PASTE
+[2016.02.03-15.40.46:255][759]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.41.01:203][519]Cmd: EDIT COPY
+[2016.02.03-15.41.01:554][557]Cmd: EDIT PASTE
+[2016.02.03-15.41.12:471][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.41.20:789][572]Cmd: EDIT COPY
+[2016.02.03-15.41.21:421][633]Cmd: EDIT PASTE
+[2016.02.03-15.41.24:390][835]Cmd: EDIT CUT
+[2016.02.03-15.41.24:397][835]LogEditorActor: Deleted Actor: Brush
+[2016.02.03-15.41.24:505][835]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2016.02.03-15.41.29:100][239]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.29:101][239]LogEditorTransaction: Undo Select Brush Surface
+[2016.02.03-15.41.31:511][393]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.31:511][393]LogEditorTransaction: Undo Cut
+[2016.02.03-15.41.31:534][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:535][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:542][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:542][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:542][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:542][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:542][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:543][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:543][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2016.02.03-15.41.31:543][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:920][535]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.33:920][535]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.41.33:944][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:944][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:945][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:951][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:951][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:952][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:953][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2016.02.03-15.41.33:954][535]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:888][708]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.36:888][708]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.41.36:910][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:910][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:911][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:918][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:918][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:919][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:919][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2016.02.03-15.41.36:919][708]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2016.02.03-15.41.38:392][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor65)
+[2016.02.03-15.41.39:521][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor66)
+[2016.02.03-15.41.47:698][609]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.47:698][609]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.41.47:718][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:719][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:719][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:725][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:725][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:726][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:727][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2016.02.03-15.41.47:727][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:274][633]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.48:274][633]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.41.48:301][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:301][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:301][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:308][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:308][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:309][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:310][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:310][633]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2016.02.03-15.41.48:938][667]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.48:938][667]LogEditorTransaction: Undo Select Brush Surface
+[2016.02.03-15.41.52:186][883]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.52:186][883]LogEditorTransaction: Undo Clicking on Actors
+[2016.02.03-15.41.53:773][975]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.53:773][975]LogEditorTransaction: Undo Clicking on Actors
+[2016.02.03-15.41.56:238][129]Cmd: TRANSACTION UNDO
+[2016.02.03-15.41.56:238][129]LogEditorTransaction: Undo Paste
+[2016.02.03-15.41.56:283][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2016.02.03-15.41.56:284][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2016.02.03-15.41.56:284][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2016.02.03-15.41.56:284][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2016.02.03-15.41.56:293][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2016.02.03-15.42.00:805][424]Cmd: EDIT COPY
+[2016.02.03-15.42.01:473][489]Cmd: EDIT PASTE
+[2016.02.03-15.42.17:834][709]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.42.32:520][893]Cmd: EDIT COPY
+[2016.02.03-15.42.32:805][915]Cmd: EDIT PASTE
+[2016.02.03-15.43.19:338][ 17]Cmd: EDIT COPY
+[2016.02.03-15.43.19:762][ 53]Cmd: EDIT PASTE
+[2016.02.03-15.43.53:808][359]Cmd: EDIT COPY
+[2016.02.03-15.43.54:482][423]Cmd: EDIT PASTE
+[2016.02.03-15.43.59:087][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor65)
+[2016.02.03-15.44.04:487][252]Cmd: EDCALLBACK SURFPROPS
+[2016.02.03-15.44.14:198][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.44.36:674][759]LogSavePackage: Save=528.899597ms
+[2016.02.03-15.44.36:674][759]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers_Auto161AAD3C6416DF8CA36516CA1EFAE8968.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Autosaves/Game/Floor1_Sewers_Auto1.umap'
+[2016.02.03-15.44.36:677][759]LogSavePackage: Total save time: 539.674893ms
+[2016.02.03-15.44.36:677][759]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Autosaves/Game/Floor1_Sewers_Auto1.umap
+[2016.02.03-15.44.36:678][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Floor1_Sewers' took 0.600
+[2016.02.03-15.44.36:678][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.600
+[2016.02.03-15.45.54:050][436]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush53)
+[2016.02.03-15.46.29:047][621]Cmd: EDIT COPY
+[2016.02.03-15.46.29:347][647]Cmd: EDIT PASTE
+[2016.02.03-15.47.49:732][914]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.48.10:943][227]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.48.22:121][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-15.48.22:811][783]LogSavePackage: Save=635.085510ms
+[2016.02.03-15.48.22:811][783]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers43B52A2645C719B138593C99411D2D17.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-15.48.22:815][783]LogSavePackage: Total save time: 642.607521ms
+[2016.02.03-15.48.22:815][783]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-15.48.22:869][783]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.817
+[2016.02.03-15.48.29:747][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-15.48.29:747][139]PIE: New page: PIE session: Floor1_Sewers (Feb 3, 2016, 5:48:29 AM)
+[2016.02.03-15.48.29:747][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.02.03-15.48.29:821][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073184s)
+[2016.02.03-15.48.29:822][139]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.02.03-15.48.29:823][139]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2016.02.03-15.48.29:823][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.075048s)
+[2016.02.03-15.48.29:893][139]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.03-15.48.29:909][139]LogInit: FAudioDevice initialized.
+[2016.02.03-15.48.29:952][139]LogWorld: Game class is 'GameMode'
+[2016.02.03-15.48.29:988][139]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.02.03-10.48.29
+[2016.02.03-15.48.29:988][139]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-15.48.29:988][139]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-15.48.29:989][139]LogWorld: Bringing up level for play took: 0.023965
+[2016.02.03-15.48.29:994][139]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers 0.549
+[2016.02.03-15.49.11:856][691]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000015611488540
+[2016.02.03-15.49.12:348][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-15.49.12:348][718]PIE: New page: PIE session: Floor1_Sewers (Feb 3, 2016, 5:49:12 AM)
+[2016.02.03-15.49.12:348][718]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.02.03-15.49.12:413][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065392s)
+[2016.02.03-15.49.12:414][718]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.02.03-15.49.12:414][718]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2016.02.03-15.49.12:414][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.066567s)
+[2016.02.03-15.49.12:444][718]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.03-15.49.12:452][718]LogInit: FAudioDevice initialized.
+[2016.02.03-15.49.12:495][718]LogWorld: Game class is 'GameMode'
+[2016.02.03-15.49.12:517][718]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.02.03-10.49.12
+[2016.02.03-15.49.12:517][718]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-15.49.12:518][718]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-15.49.12:518][718]LogWorld: Bringing up level for play took: 0.022503
+[2016.02.03-15.49.12:521][718]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers 1.077
+[2016.02.03-15.49.52:534][262]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001561EC6A520
+[2016.02.03-15.50.06:099][146]MapCheck: New page: Map Check
+[2016.02.03-15.50.06:286][146]Cmd: MAP REBUILD ALLVISIBLE
+[2016.02.03-15.50.06:286][146]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.02.03-15.50.06:471][146]LightingResults: New page: Lighting Build - Feb 3, 2016, 5:50:06 AM
+[2016.02.03-15.50.17:894][146]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.02.03-15.50.17:895][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.02.03-15.50.17:895][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.02.03-15.50.17:895][146]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.02.03-15.50.17:895][146]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.02.03-15.50.17:895][146]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.02.03-15.50.18:744][146]LogEditorBuildUtils: Build time 0:00:12
+[2016.02.03-15.50.40:795][212]Job is a success!
+[2016.02.03-15.50.42:091][213]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.02.03-15.50.42:467][213]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1)
+[2016.02.03-15.50.42:468][213]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT)
+[2016.02.03-15.50.42:470][213]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1)
+[2016.02.03-15.50.42:471][213]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT)
+[2016.02.03-15.50.42:472][213]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2016.02.03-15.50.42:486][213]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2016.02.03-15.50.42:536][213]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2016.02.03-15.50.42:545][213]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2016.02.03-15.50.42:572][213]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2016.02.03-15.50.42:610][213]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2016.02.03-15.50.42:721][213]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2016.02.03-15.50.42:753][213]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2016.02.03-15.50.42:812][213]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2016.02.03-15.50.42:841][213]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2016.02.03-15.50.42:894][213]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2016.02.03-15.50.42:919][213]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2016.02.03-15.50.42:975][213]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2016.02.03-15.50.43:032][213]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2016.02.03-15.50.43:181][213]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2016.02.03-15.50.43:221][213]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2016.02.03-15.50.43:300][213]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1)
+[2016.02.03-15.50.43:354][213]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT)
+[2016.02.03-15.50.43:484][213]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1)
+[2016.02.03-15.50.43:560][213]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT)
+[2016.02.03-15.50.43:699][213]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1)
+[2016.02.03-15.50.43:754][213]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT)
+[2016.02.03-15.50.43:904][213]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2016.02.03-15.50.43:971][213]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2016.02.03-15.50.44:097][213]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2016.02.03-15.50.44:155][213]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2016.02.03-15.50.44:271][213]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.02.03-15.50.44:321][213]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.02.03-15.50.44:465][213]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.02.03-15.50.44:516][213]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.02.03-15.50.44:637][213]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.02.03-15.50.44:696][213]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.02.03-15.50.44:828][213]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.02.03-15.50.45:535][213]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.02.03-15.50.45:808][213]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.02.03-15.50.45:904][213]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.02.03-15.50.45:965][213]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.02.03-15.50.46:014][213]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.02.03-15.50.46:032][213]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.02.03-15.50.46:074][213]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2016.02.03-15.50.46:127][213]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2016.02.03-15.50.46:174][213]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2016.02.03-15.50.46:229][213]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2016.02.03-15.50.46:277][213]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2016.02.03-15.50.46:329][213]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8)
+[2016.02.03-15.50.46:382][213]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2016.02.03-15.50.46:431][213]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8)
+[2016.02.03-15.50.46:472][213]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2016.02.03-15.50.46:492][213]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8)
+[2016.02.03-15.50.46:544][213]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2016.02.03-15.50.46:555][213]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8)
+[2016.02.03-15.50.46:560][213]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (G8)
+[2016.02.03-15.50.46:907][213]Lightmass on LAPTOP-LIOL8N73: 24.6 sec total, 322 ms importing, 14 ms setup, 3.39 sec photons, 20.9 sec processing, 0 ms extra exporting [169/169 mappings]. Threads: 1:23 min total, 43.9 sec processing.
+[2016.02.03-15.50.47:063][213]LogStaticLightingSystem: Illumination: 40.2 sec (4.93 sec encoding lightmaps)
+[2016.02.03-15.50.47:063][213]LogStaticLightingSystem: Lightmap texture memory:  5.7 MB (4.3 MB streaming, 1.3 MB non-streaming), 38 textures
+[2016.02.03-15.50.47:064][213]LogStaticLightingSystem: Shadowmap texture memory: 5.1 MB (2.4 MB streaming, 2.7 MB non-streaming), 19 textures
+[2016.02.03-15.50.47:969][214]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.02.03-15.50.47:972][214]MapCheck: New page: Floor1_Sewers - Feb 3, 2016, 5:50:47 AM
+[2016.02.03-15.50.48:052][214]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 79.787ms to complete.
+[2016.02.03-15.57.51:686][198]Cmd: EDIT COPY
+[2016.02.03-15.57.52:300][242]Cmd: EDIT PASTE
+[2016.02.03-15.58.36:701][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.59.10:133][876]Cmd: EDIT COPY
+[2016.02.03-15.59.10:413][900]Cmd: EDIT PASTE
+[2016.02.03-15.59.41:251][107]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.00.05:435][112]Cmd: EDIT COPY
+[2016.02.03-16.00.06:056][161]Cmd: EDIT PASTE
+[2016.02.03-16.01.16:556][906]LogSavePackage: Save=391.969879ms
+[2016.02.03-16.01.16:556][906]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers_Auto23F6FF6D64DC8917AD59F01A165C8A652.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Autosaves/Game/Floor1_Sewers_Auto2.umap'
+[2016.02.03-16.01.16:559][906]LogSavePackage: Total save time: 404.247630ms
+[2016.02.03-16.01.16:559][906]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Autosaves/Game/Floor1_Sewers_Auto2.umap
+[2016.02.03-16.01.16:561][906]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Floor1_Sewers' took 0.467
+[2016.02.03-16.01.16:561][906]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.467
+[2016.02.03-16.02.34:669][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.07.57:291][316]Cmd: EDIT COPY
+[2016.02.03-16.07.58:267][405]Cmd: EDIT PASTE
+[2016.02.03-16.08.40:385][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.08.48:436][881]Cmd: EDIT COPY
+[2016.02.03-16.08.48:747][907]Cmd: EDIT PASTE
+[2016.02.03-16.08.56:758][476]Cmd: TRANSACTION UNDO
+[2016.02.03-16.08.56:758][476]LogEditorTransaction: Undo Move Actors
+[2016.02.03-16.08.56:788][476]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2016.02.03-16.08.56:791][476]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2016.02.03-16.08.56:792][476]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2016.02.03-16.08.56:792][476]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:817][525]Cmd: TRANSACTION UNDO
+[2016.02.03-16.08.57:817][525]LogEditorTransaction: Undo Move Actors
+[2016.02.03-16.08.57:852][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:852][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:859][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:859][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:859][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:859][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2016.02.03-16.08.57:860][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush53.BrushComponent0) Component already registered.
+[2016.02.03-16.09.19:571][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.09.23:259][192]Cmd: EDIT COPY
+[2016.02.03-16.09.24:872][369]Cmd: EDIT PASTE
+[2016.02.03-16.10.52:359][640]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.11.32:082][358]Cmd: EDIT COPY
+[2016.02.03-16.11.32:825][425]Cmd: EDIT PASTE
+[2016.02.03-16.12.07:643][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.12.22:975][557]Cmd: EDIT COPY
+[2016.02.03-16.12.23:536][606]Cmd: EDIT PASTE
+[2016.02.03-16.12.51:688][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.12.55:835][120]Cmd: EDIT COPY
+[2016.02.03-16.12.56:418][164]Cmd: EDIT PASTE
+[2016.02.03-16.13.10:718][868]Cmd: TRANSACTION UNDO
+[2016.02.03-16.13.10:718][868]LogEditorTransaction: Undo Move Actors
+[2016.02.03-16.13.10:750][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:751][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:751][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:751][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:751][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:761][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:762][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush48.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:763][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2016.02.03-16.13.10:763][868]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2016.02.03-16.13.14:134][ 33]Cmd: TRANSACTION REDO
+[2016.02.03-16.13.14:134][ 33]LogEditorTransaction: Redo Move Actors
+[2016.02.03-16.13.30:950][209]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-16.13.42:507][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-16.13.43:934][725]LogSavePackage: Save=1370.801270ms
+[2016.02.03-16.13.43:934][725]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersBDD8E6DF4C8FD47FED1A7DB9A64FEAAB.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-16.13.43:937][725]LogSavePackage: Total save time: 1381.134130ms
+[2016.02.03-16.13.43:937][725]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-16.13.44:003][725]LogFileHelpers: Saving map 'Floor1_Sewers' took 1.564
+[2016.02.03-16.13.47:699][ 28]MapCheck: New page: Map Check
+[2016.02.03-16.13.47:734][ 28]Cmd: MAP REBUILD ALLVISIBLE
+[2016.02.03-16.13.47:734][ 28]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.02.03-16.13.47:904][ 28]LightingResults: New page: Lighting Build - Feb 3, 2016, 6:13:47 AM
+[2016.02.03-16.13.52:461][ 28]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.02.03-16.13.52:461][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.02.03-16.13.52:461][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.02.03-16.13.52:461][ 28]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.02.03-16.13.52:461][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.02.03-16.13.52:461][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.02.03-16.13.52:622][ 28]LogEditorBuildUtils: Build time 0:00:04
+[2016.02.03-16.14.21:219][752]Job is a success!
+[2016.02.03-16.14.23:055][753]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.02.03-16.14.24:139][753]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1)
+[2016.02.03-16.14.24:142][753]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT)
+[2016.02.03-16.14.24:144][753]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1)
+[2016.02.03-16.14.24:145][753]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT)
+[2016.02.03-16.14.24:147][753]LogTexture:Display: Building textures: LQ_Lightmap_1_19 (DXT1)
+[2016.02.03-16.14.24:213][753]LogTexture:Display: Building textures: HQ_Lightmap1_19 (AutoDXT)
+[2016.02.03-16.14.24:261][753]LogTexture:Display: Building textures: LQ_Lightmap_1_18 (DXT1)
+[2016.02.03-16.14.24:318][753]LogTexture:Display: Building textures: HQ_Lightmap1_18 (AutoDXT)
+[2016.02.03-16.14.24:418][753]LogTexture:Display: Building textures: LQ_Lightmap_1_17 (DXT1)
+[2016.02.03-16.14.24:473][753]LogTexture:Display: Building textures: HQ_Lightmap1_17 (AutoDXT)
+[2016.02.03-16.14.24:552][753]LogTexture:Display: Building textures: LQ_Lightmap_1_16 (DXT1)
+[2016.02.03-16.14.24:603][753]LogTexture:Display: Building textures: HQ_Lightmap1_16 (AutoDXT)
+[2016.02.03-16.14.24:774][753]LogTexture:Display: Building textures: LQ_Lightmap_1_15 (DXT1)
+[2016.02.03-16.14.24:795][753]LogTexture:Display: Building textures: HQ_Lightmap1_15 (AutoDXT)
+[2016.02.03-16.14.24:850][753]LogTexture:Display: Building textures: LQ_Lightmap_1_14 (DXT1)
+[2016.02.03-16.14.24:955][753]LogTexture:Display: Building textures: HQ_Lightmap1_14 (AutoDXT)
+[2016.02.03-16.14.25:044][753]LogTexture:Display: Building textures: LQ_Lightmap_1_13 (DXT1)
+[2016.02.03-16.14.25:093][753]LogTexture:Display: Building textures: HQ_Lightmap1_13 (AutoDXT)
+[2016.02.03-16.14.25:221][753]LogTexture:Display: Building textures: LQ_Lightmap_1_12 (DXT1)
+[2016.02.03-16.14.25:249][753]LogTexture:Display: Building textures: HQ_Lightmap1_12 (AutoDXT)
+[2016.02.03-16.14.25:307][753]LogTexture:Display: Building textures: LQ_Lightmap_1_11 (DXT1)
+[2016.02.03-16.14.25:357][753]LogTexture:Display: Building textures: HQ_Lightmap1_11 (AutoDXT)
+[2016.02.03-16.14.25:470][753]LogTexture:Display: Building textures: LQ_Lightmap_1_10 (DXT1)
+[2016.02.03-16.14.25:517][753]LogTexture:Display: Building textures: HQ_Lightmap1_10 (AutoDXT)
+[2016.02.03-16.14.25:691][753]LogTexture:Display: Building textures: LQ_Lightmap_1_9 (DXT1)
+[2016.02.03-16.14.25:765][753]LogTexture:Display: Building textures: HQ_Lightmap1_9 (AutoDXT)
+[2016.02.03-16.14.25:909][753]LogTexture:Display: Building textures: LQ_Lightmap_1_8 (DXT1)
+[2016.02.03-16.14.25:973][753]LogTexture:Display: Building textures: HQ_Lightmap1_8 (AutoDXT)
+[2016.02.03-16.14.26:106][753]LogTexture:Display: Building textures: LQ_Lightmap_1_7 (DXT1)
+[2016.02.03-16.14.26:150][753]LogTexture:Display: Building textures: HQ_Lightmap1_7 (AutoDXT)
+[2016.02.03-16.14.26:280][753]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2016.02.03-16.14.26:333][753]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2016.02.03-16.14.26:418][753]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2016.02.03-16.14.26:474][753]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2016.02.03-16.14.26:583][753]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2016.02.03-16.14.26:668][753]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2016.02.03-16.14.26:814][753]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.02.03-16.14.26:880][753]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.02.03-16.14.27:043][753]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.02.03-16.14.27:115][753]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.02.03-16.14.27:314][753]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.02.03-16.14.28:468][753]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (G8)
+[2016.02.03-16.14.28:667][7
