@@ -163,4 +163,228 @@
 [2016.02.03-14.23.02:957][134]Cmd: EDIT COPY
 [2016.02.03-14.23.03:581][141]Cmd: EDIT PASTE
 [2016.02.03-14.23.47:664][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
-[2016.02.03-14.23.53:785][ 46]LogEditorViewport: C
+[2016.02.03-14.23.53:785][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.24.19:207][527]Cmd: EDIT COPY
+[2016.02.03-14.24.19:582][534]Cmd: EDIT PASTE
+[2016.02.03-14.24.49:157][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2016.02.03-14.24.51:470][114]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.25.04:876][360]Cmd: EDIT COPY
+[2016.02.03-14.25.05:650][372]Cmd: EDIT PASTE
+[2016.02.03-14.26.40:538][107]Cmd: EDIT COPY
+[2016.02.03-14.26.41:078][117]Cmd: EDIT PASTE
+[2016.02.03-14.26.59:256][445]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.27.22:418][863]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.27.35:950][113]Cmd: EDIT COPY
+[2016.02.03-14.27.36:339][120]Cmd: EDIT PASTE
+[2016.02.03-14.28.21:642][958]Cmd: TRANSACTION UNDO
+[2016.02.03-14.28.21:642][958]LogEditorTransaction: Undo Move Actors
+[2016.02.03-14.28.43:600][391]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor6)
+[2016.02.03-14.28.47:611][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2016.02.03-14.29.11:775][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2016.02.03-14.29.26:616][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2016.02.03-14.29.27:837][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2016.02.03-14.29.29:954][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-14.29.59:181][866]Cmd: EDIT COPY
+[2016.02.03-14.29.59:452][871]Cmd: EDIT PASTE
+[2016.02.03-14.31.05:552][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-14.31.19:500][283]Cmd: EDIT COPY
+[2016.02.03-14.31.20:128][294]Cmd: EDIT PASTE
+[2016.02.03-14.32.05:984][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.32.10:609][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.32.22:318][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.32.34:932][559]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.33.05:449][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.33.17:804][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.33.31:447][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.33.46:282][823]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.33.51:175][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-14.33.51:561][967]LogSavePackage: Save=213.783478ms
+[2016.02.03-14.33.51:561][967]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersAC9117714A511AFB4FC9AEACF0F4C368.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-14.33.51:565][967]LogSavePackage: Total save time: 357.306752ms
+[2016.02.03-14.33.51:565][967]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-14.33.51:604][967]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.495
+[2016.02.03-14.34.51:409][508]Cmd: EDIT COPY
+[2016.02.03-14.34.57:963][620]Cmd: TRANSACTION UNDO
+[2016.02.03-14.34.57:963][620]LogEditorTransaction: Undo Move Actors
+[2016.02.03-14.34.58:035][620]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2016.02.03-14.35.00:969][702]Cmd: EDIT COPY
+[2016.02.03-14.35.01:372][709]Cmd: EDIT PASTE
+[2016.02.03-14.35.20:083][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2016.02.03-14.35.35:247][308]Cmd: EDIT COPY
+[2016.02.03-14.35.35:630][315]Cmd: EDIT PASTE
+[2016.02.03-14.35.54:948][671]Cmd: EDIT COPY
+[2016.02.03-14.35.55:300][677]Cmd: EDIT PASTE
+[2016.02.03-14.37.25:725][385]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.37.40:665][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.37.41:491][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.37.44:243][729]Cmd: EDIT COPY
+[2016.02.03-14.37.44:593][735]Cmd: EDIT PASTE
+[2016.02.03-14.38.22:912][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.38.27:343][516]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.39.18:297][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2016.02.03-14.39.19:692][505]Cmd: EDIT COPY
+[2016.02.03-14.39.20:195][514]Cmd: EDIT PASTE
+[2016.02.03-14.39.35:650][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2016.02.03-14.39.53:815][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.39.58:752][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.40.03:522][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.41.06:479][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.41.07:402][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.41.07:914][493]Cmd: EDIT COPY
+[2016.02.03-14.41.08:248][499]Cmd: EDIT PASTE
+[2016.02.03-14.41.29:767][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.41.43:156][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.41.43:972][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor9)
+[2016.02.03-14.41.57:332][392]Cmd: EDIT COPY
+[2016.02.03-14.41.57:823][401]Cmd: EDIT PASTE
+[2016.02.03-14.42.09:351][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.42.11:057][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2016.02.03-14.42.11:832][648]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor12)
+[2016.02.03-14.42.20:957][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.42.31:911][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2016.02.03-14.42.32:627][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor9)
+[2016.02.03-14.42.33:282][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.42.34:103][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor13)
+[2016.02.03-14.43.09:807][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.43.34:839][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2016.02.03-14.43.36:772][186]Cmd: EDIT COPY
+[2016.02.03-14.43.37:542][200]Cmd: EDIT PASTE
+[2016.02.03-14.43.51:019][440]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.44.16:482][912]Cmd: EDIT COPY
+[2016.02.03-14.44.17:789][935]Cmd: EDIT PASTE
+[2016.02.03-14.44.59:821][669]Cmd: EDIT COPY
+[2016.02.03-14.45.00:164][675]Cmd: EDIT PASTE
+[2016.02.03-14.45.37:051][308]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.45.41:724][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-14.45.41:921][477]LogSavePackage: Save=146.959518ms
+[2016.02.03-14.45.41:921][477]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_SewersD725F13D4634EB808963A6B12F74A7BE.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-14.45.41:926][477]LogSavePackage: Total save time: 160.325658ms
+[2016.02.03-14.45.41:926][477]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-14.45.41:970][477]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.315
+[2016.02.03-14.46.59:166][952]Cmd: EDIT COPY
+[2016.02.03-14.46.59:559][957]Cmd: EDIT PASTE
+[2016.02.03-14.48.44:860][819]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.48.52:818][960]Cmd: EDIT COPY
+[2016.02.03-14.48.53:095][965]Cmd: EDIT PASTE
+[2016.02.03-14.49.46:032][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.49.51:556][978]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.50.04:601][218]Cmd: EDIT COPY
+[2016.02.03-14.50.04:867][223]Cmd: EDIT PASTE
+[2016.02.03-14.51.49:615][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2016.02.03-14.52.21:490][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.52.40:875][915]Cmd: EDCALLBACK SURFPROPS
+[2016.02.03-14.52.41:812][930]Cmd: EDIT COPY
+[2016.02.03-14.52.42:281][938]Cmd: EDIT PASTE
+[2016.02.03-14.52.47:133][ 62]Cmd: TRANSACTION UNDO
+[2016.02.03-14.52.47:133][ 62]LogEditorTransaction: Undo Paste
+[2016.02.03-14.52.52:624][267]Cmd: EDIT COPY
+[2016.02.03-14.52.53:153][276]Cmd: EDIT PASTE
+[2016.02.03-14.53.04:460][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2016.02.03-14.53.07:738][524]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor9)
+[2016.02.03-14.53.09:543][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.53.15:884][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2016.02.03-14.53.31:384][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2016.02.03-14.53.31:691][  0]Cmd: EDIT COPY
+[2016.02.03-14.53.31:979][  5]Cmd: EDIT PASTE
+[2016.02.03-14.53.33:031][ 23]Cmd: TRANSACTION UNDO
+[2016.02.03-14.53.33:031][ 23]LogEditorTransaction: Undo Paste
+[2016.02.03-14.53.34:355][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.53.38:416][145]Cmd: EDIT COPY
+[2016.02.03-14.53.38:782][151]Cmd: EDIT PASTE
+[2016.02.03-14.53.45:296][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.53.50:535][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2016.02.03-14.53.51:286][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor10)
+[2016.02.03-14.53.51:849][378]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor13)
+[2016.02.03-14.53.53:072][400]Cmd: EDIT COPY
+[2016.02.03-14.53.53:625][410]Cmd: EDIT PASTE
+[2016.02.03-14.54.21:431][907]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.55.34:633][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2016.02.03-14.55.36:408][321]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor12)
+[2016.02.03-14.55.37:278][336]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor13)
+[2016.02.03-14.55.37:933][347]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor17)
+[2016.02.03-14.55.48:271][538]Cmd: EDIT COPY
+[2016.02.03-14.55.48:864][549]Cmd: EDIT PASTE
+[2016.02.03-14.56.00:094][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.56.22:216][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor21)
+[2016.02.03-14.56.22:813][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor19)
+[2016.02.03-14.56.23:317][189]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor18)
+[2016.02.03-14.56.24:277][205]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor20)
+[2016.02.03-14.56.32:024][347]Cmd: EDIT COPY
+[2016.02.03-14.56.32:472][355]Cmd: EDIT PASTE
+[2016.02.03-14.56.46:531][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.57.00:992][873]Cmd: EDIT COPY
+[2016.02.03-14.57.01:433][879]Cmd: EDIT PASTE
+[2016.02.03-14.57.50:826][752]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.58.17:408][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-14.58.17:411][253]PIE: New page: PIE session: Floor1_Sewers (Feb 3, 2016, 4:58:17 AM)
+[2016.02.03-14.58.17:411][253]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Floor1_Sewers
+[2016.02.03-14.58.17:456][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044944s)
+[2016.02.03-14.58.17:457][253]LogAIModule: Creating AISystem for world Floor1_Sewers
+[2016.02.03-14.58.17:458][253]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2016.02.03-14.58.17:458][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Floor1_Sewers.Floor1_Sewers to /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers (0.046920s)
+[2016.02.03-14.58.17:538][253]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.03-14.58.17:549][253]LogInit: FAudioDevice initialized.
+[2016.02.03-14.58.17:672][253]LogWorld: Game class is 'GameMode'
+[2016.02.03-14.58.17:685][253]LogWorld: Bringing World /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers up for play (max tick rate 0) at 2016.02.03-09.58.17
+[2016.02.03-14.58.17:685][253]LogActor:Warning: GameSession /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-14.58.17:685][253]LogActor:Warning: GameNetworkManager /Game/UEDPIE_0_Floor1_Sewers.Floor1_Sewers:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-14.58.17:686][253]LogWorld: Bringing up level for play took: 0.011130
+[2016.02.03-14.58.17:771][253]PIE: Info Play in editor start time for /Game/UEDPIE_0_Floor1_Sewers 0.326
+[2016.02.03-14.58.41:345][789]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000015611F349A0
+[2016.02.03-14.58.56:944][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor25)
+[2016.02.03-14.58.57:611][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor21)
+[2016.02.03-14.58.58:170][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor17)
+[2016.02.03-14.58.58:677][114]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor15)
+[2016.02.03-14.58.59:141][121]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor16)
+[2016.02.03-14.59.00:144][139]Cmd: EDIT COPY
+[2016.02.03-14.59.00:476][143]Cmd: EDIT PASTE
+[2016.02.03-14.59.26:884][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-14.59.49:103][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor27)
+[2016.02.03-14.59.49:696][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor26)
+[2016.02.03-14.59.50:133][ 74]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor28)
+[2016.02.03-14.59.50:510][ 80]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor29)
+[2016.02.03-14.59.50:903][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor30)
+[2016.02.03-15.00.06:231][318]Cmd: EDIT COPY
+[2016.02.03-15.00.06:681][326]Cmd: EDIT PASTE
+[2016.02.03-15.00.20:829][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.00.53:419][190]Cmd: EDIT COPY
+[2016.02.03-15.00.54:534][210]Cmd: EDIT PASTE
+[2016.02.03-15.01.44:910][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.01.56:394][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2016.02.03-15.01.59:530][390]Cmd: EDIT COPY
+[2016.02.03-15.01.59:929][397]Cmd: EDIT PASTE
+[2016.02.03-15.02.17:724][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor30)
+[2016.02.03-15.02.19:102][731]Cmd: TRANSACTION UNDO
+[2016.02.03-15.02.19:102][731]LogEditorTransaction: Undo Clicking on Actors
+[2016.02.03-15.02.22:960][886]Cmd: TRANSACTION UNDO
+[2016.02.03-15.02.22:960][886]LogEditorTransaction: Undo Move Actors
+[2016.02.03-15.02.23:048][886]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2016.02.03-15.02.23:053][886]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2016.02.03-15.02.23:054][886]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2016.02.03-15.02.23:054][886]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2016.02.03-15.02.23:055][886]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2016.02.03-15.02.23:728][920]Cmd: TRANSACTION UNDO
+[2016.02.03-15.02.23:728][920]LogEditorTransaction: Undo Edit X
+[2016.02.03-15.02.23:754][920]LogActorComponent: ~FComponentReregisterContext: (/Game/Floor1_Sewers.Floor1_Sewers:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2016.02.03-15.04.25:401][ 77]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.02.03-15.04.48:814][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2016.02.03-15.04.54:266][598]Cmd: EDIT COPY
+[2016.02.03-15.04.56:209][632]Cmd: EDIT PASTE
+[2016.02.03-15.05.42:997][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-15.05.43:360][477]LogSavePackage: Save=320.478668ms
+[2016.02.03-15.05.43:360][477]LogSavePackage: Moving '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Saved/Floor1_Sewers668644BA4B6BA6D1517C5BA1CC44B59A.tmp' to '../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap'
+[2016.02.03-15.05.43:365][477]LogSavePackage: Total save time: 331.062783ms
+[2016.02.03-15.05.43:365][477]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap
+[2016.02.03-15.05.43:420][477]LogFileHelpers: Saving map 'Floor1_Sewers' took 0.493
+[2016.02.03-15.05.54:103][677]Cmd: EDIT COPY
+[2016.02.03-15.05.54:444][683]Cmd: EDIT PASTE
+[2016.02.03-15.06.05:339][876]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor33)
+[2016.02.03-15.06.34:995][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.07.01:076][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor31)
+[2016.02.03-15.07.03:580][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor34)
+[2016.02.03-15.07.04:085][850]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor33)
+[2016.02.03-15.07.04:967][862]Cmd: EDIT COPY
+[2016.02.03-15.07.05:603][870]Cmd: EDIT PASTE
+[2016.02.03-15.07.39:198][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2016.02.03-15.07.42:794][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor1_Sewers" FILE="../../../../../../Users/Blake/Documents/Unreal Projects/FPS/Content/Floor1_Sewers.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.03-15.07.42:980][456]LogSavePackage: Save=145.5
